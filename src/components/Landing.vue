@@ -1,9 +1,7 @@
 <script setup lang="ts">
-    // comment
+// comment
 </script>
 
 <template>
-    <div class="text-secondary bg-primary">
-        Landing
-    </div>
+    <div class="flex w-full bg-white" id="landing">Landing</div>
 </template>

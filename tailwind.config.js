@@ -10,9 +10,9 @@ module.exports = {
       {
         geordiecoder: {
         
-        "primary": "#1976D2",
+        "primary": "#42b883",
                 
-        "secondary": "#424242",
+        "secondary": "#35495e",
                 
         "accent": "#82B1FF",
                 
